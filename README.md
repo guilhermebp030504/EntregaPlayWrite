@@ -2,7 +2,7 @@
 
 ## GitHub Actions
 
-[![Build and Tests](https://github.com/guilhermebp030504/EntregaPlayWrite/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/guilhermebp030504/EntregaPlayWrite/actions/workflows/node.js.yml)
+[![Build and Tests](https://github.com/guilhermebp030504/EntregaPlayWrite/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/guilhermebp030504/EntregaPlayWrite/actions/workflows/node.js.yml)
 
 ## Getting Started
 
