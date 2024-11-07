@@ -1,0 +1,12 @@
+application:
+  base_url: "https://google.com"
+  automationpractice_QA: "http://www.automationpractice.pl/index.php"
+  automationpractice_HML: "https://www.bing.com/?cc=br"
+  automationpractice_PRD: "https://google.com"
+  americanas_QA: "https://www.americanas.com.br/"
+  americanas_HML: "https://www.bing.com/?cc=br"
+  americanas_PRD: "https://google.com"
+  americanas_CAD_QA: "https://cliente.americanas.com.br/minha-conta/cadastro?next=https://www.americanas.com.br/"
+  americanas_CAD_HML: "https://www.bing.com/?cc=br"
+  americanas_CAD_PRD: "https://google.com"
+  
