@@ -6,7 +6,7 @@ application:
   americanas_QA: "https://www.americanas.com.br/"
   americanas_HML: "https://www.bing.com/?cc=br"
   americanas_PRD: "https://google.com"
-  americanas_CAD_QA: "https://cliente.americanas.com.br/minha-conta/cadastro?next=https://www.americanas.com.br/"
+  americanas_CAD_QA: "http://cliente.americanas.com.br/minha-conta/cadastro?next=https://www.americanas.com.br/"
   americanas_CAD_HML: "https://www.bing.com/?cc=br"
   americanas_CAD_PRD: "https://google.com"
   
